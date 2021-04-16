@@ -1,6 +1,6 @@
 [submodule "Core"]
 	path = Core
-	url = C:\\Users\\Sick Swann\\Documents\\GitHub\\Core
+url=C:\\Users\\Sick Swann\\source\\repos\\Core
 [submodule "Config"]
 	path = Config
-	url = C:\\Users\\Sick Swann\\Documents\\GitHub\\Config
+url=C:\\Users\\Sick Swann\\source\\repos\\Config
